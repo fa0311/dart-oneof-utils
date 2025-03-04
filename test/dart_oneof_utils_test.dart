@@ -1,4 +1,4 @@
-import 'package:dart_oneof_utils/one_of.dart';
+import 'package:dart_oneof_utils/dart_oneof_utils.dart';
 import 'package:one_of/one_of.dart';
 import 'package:test/test.dart';
 
